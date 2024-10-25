@@ -24,16 +24,16 @@
           />
         </div>
         <div class="p-6">
-          <h6
+          <h1
             class="block mb-4 font-sans text-base antialiased font-semibold leading-relaxed tracking-normal uppercase"
           >
             Gerrit Wanderer
-          </h6>
-          <h4
+          </h1>
+          <h2
             class="block mb-2 font-sans text-2xl antialiased font-semibold leading-snug tracking-normal text-white"
           >
             A place dedicated for my curiosity
-          </h4>
+          </h2>
           <p
             class="block mb-8 font-sans text-base antialiased font-normal leading-relaxed text-white"
           >
@@ -53,7 +53,7 @@
             flowers the space to easily sprout, grow and build connections with other flowers and
             organisms on this field.
           </p>
-          <a class="mt-3 text-indigo-400 inline-flex items-center"
+          <a href="/wildflower-notes" class="mt-3 text-indigo-400 inline-flex items-center"
             >Read More
             <svg
               fill="none"
@@ -77,44 +77,18 @@
             produce? Will in go into symbiose easy with wither organisms or not? An answer to these
             questions can only be found in my own propagator lab.
           </p>
-          <a class="mt-3 text-indigo-400 inline-flex items-center"
-            >Learn More
-            <svg
-              fill="none"
-              stroke="currentColor"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              stroke-width="2"
-              class="w-4 h-4 ml-2"
-              viewBox="0 0 24 24"
-            >
-              <path d="M5 12h14M12 5l7 7-7 7"></path>
-            </svg>
-          </a>
+          <p class="mt-3 text-indigo-400 inline-flex items-center">TBD</p>
         </div>
       </div>
       <div class="p-4 md:w-1/3 flex">
         <div class="flex-grow pl-6">
           <h2 class="text-white text-lg title-font font-medium mb-2">Compost</h2>
           <p class="leading-relaxed text-base">
-            Blue bottle crucifix vinyl post-ironic four dollar toast vegan taxidermy. Gastropub
-            indxgo juice poutine, ramps microdosing banh mi pug VHS try-hard ugh iceland kickstarter
-            tumblr live-edge tilde.
+            After a idea sprouted and went through flowering, it is time to give all the valueble
+            nutrients back into the soil and make space for other flowers, which can grow on top
+            what the is left.
           </p>
-          <a class="mt-3 text-indigo-400 inline-flex items-center"
-            >Learn More
-            <svg
-              fill="none"
-              stroke="currentColor"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              stroke-width="2"
-              class="w-4 h-4 ml-2"
-              viewBox="0 0 24 24"
-            >
-              <path d="M5 12h14M12 5l7 7-7 7"></path>
-            </svg>
-          </a>
+          <p class="mt-3 text-indigo-400 inline-flex items-center">TBD</p>
         </div>
       </div>
     </div>
