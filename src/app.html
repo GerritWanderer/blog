@@ -9,23 +9,16 @@
     />
     <meta name="keywords" content="blog" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link
-      rel="stylesheet"
-      href="https://cdn.jsdelivr.net/npm/open-fonts@1.1.1/fonts/inter.min.css"
-    />
-    <link
-      rel="stylesheet"
-      href="https://cdn.jsdelivr.net/npm/@exampledev/new.css@1.1.2/new.min.css"
-    />
+    <link rel="icon" href="%sveltekit.assets%/favicon.png" />
     %sveltekit.head%
   </head>
-  <body data-sveltekit-preload-data="hover">
-    <header>
-      <h1>Gerrit Wanderer</h1>
-      <nav>
-        <a href="https://github.com/GerritWanderer">Wildflowers</a> /
-        <a href="https://github.com/GerritWanderer">Propagator</a> /
-        <a href="https://github.com/GerritWanderer">My Garden</a>
+  <body data-sveltekit-preload-data="hover" class="bg-gray-900">
+    <header class="flex bg-gray-800 text-white top-0 py-3 flex-wrap justify-around bg-silver">
+      <h1 class="text-lg font-semibold">Were thoughts can sprout and bloom like plants.</h1>
+      <nav class="flex gap-[40px] text-m">
+        <a href="https://github.com/GerritWanderer">Wildflower Notes</a>
+        <a href="https://github.com/GerritWanderer">Propagator Lab</a>
+        <a href="https://github.com/GerritWanderer">Compost Archive</a>
       </nav>
     </header>
     <div style="display: contents">%sveltekit.body%</div>
